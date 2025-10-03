@@ -1,0 +1,17 @@
+tibetan_wer 
+transformers
+tokenizers
+datasets
+torchaudio
+torch
+wandb
+evaluate
+cer
+tensorboard
+accelerate
+jiwer
+evaluate
+huggingface-hub
+pandas
+numpy
+pandarallel
